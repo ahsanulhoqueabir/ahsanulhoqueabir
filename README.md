@@ -33,7 +33,7 @@
 <em><strong>Competitive Programmer</em></strong></em> from Chittagong,Bangladesh </h3>
 
 
-# <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="padding-bottom: 10px" width="40px" align="center"> About Me
+#  About Me
 
 - <img src="https://i.postimg.cc/RVzBjVT5/man-juggling.gif" width="30" align="center"> I’m Currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
 
@@ -44,7 +44,7 @@
 
 <!--  Languages and Tools Section Started-->
 
-# <img src="https://i.postimg.cc/kgnjkDYH/rocket.gif" width="60px" align="center"> Languages and Tools :
+# Languages and Tools :
 
 </br>
 
@@ -77,7 +77,7 @@
 
 <!-- Github All Stats Start -->
 
-# <img src="https://i.postimg.cc/HW3kPW9p/direct-hit.gif" width="40px" align="center"> My Github Stats
+#  My Github Stats
 
   <br/>
   <div align="center">
@@ -165,7 +165,7 @@
 
 <!-- Social Media Connection Section Started -->
 
-# <img src="https://i.postimg.cc/qvK00py6/handshake.gif" width="40px" align="center"> Connect with me :
+# Connect with me :
 
 </br>
 
