@@ -23,7 +23,7 @@
 
 -  I’m Currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
 
--  How to reach me ** contact.ahsanul@gmail.com**
+-  How to reach me **contact.ahsanul@gmail.com**
 
 
 <!-- About Me Section Ended-->
