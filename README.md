@@ -1,25 +1,201 @@
-![banner](https://github.com/ahsanulhoqueabir/ahsanulhoqueabir/assets/113261318/eae0d304-6b01-4462-a533-c0c37e2bb4be)
+<div>
 
-<h1 align="center">I'm MD. AHSANUL HOQUE ABIR</h1>
-<h3 align="center">A passionate frontend developer and Competitive Programmer</h3>
+ <a href="https://codeforces.com/profile/AhsanulHoqueAbir">
+    <img src="https://raw.githubusercontent.com/ahsanulhoqueabir/cf-stats/main/output/max_rating.svg" alt="CodeForces rating" />
+ </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanulhoqueabir&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanulhoqueabir" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<a href="https://github.com/ahsanulhoqueabir">
+    <img src="https://komarev.com/ghpvc/?username=ahsanulhoqueabir" alt = "profile views count" />
+</a>
+
+<a href="https://github.com/ahsanulhoqueabir">
+
+<img src="https://img.shields.io/github/followers/ahsanulhoqueabir?label=Followers&style=social" alt="GitHub Badge">
+
+</a>
+
+</br>
+</br>
+
+</div>
+
+<!-- Banner Started -->
+
+<img align="right" alt="Coding" width="100%" height="100%" src="https://user-images.githubusercontent.com/113261318/246619811-eae0d304-6b01-4462-a533-c0c37e2bb4be.png">
+
+<!-- Banner Ended -->
+
+<!-- About Me Section Started-->
+
+<h1 align="center">Hi <img src="https://i.postimg.cc/52gnS1gM/waving-hand.gif" width="35px">, I'm MD. AHSANUL HOQUE ABIR</h1>
+<h3 align="center">I'm a Passionate
+<em><strong>Competitive Programmer</em></strong></em> from Chittagong,Bangladesh </h3>
+
+
+# <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="padding-bottom: 10px" width="40px" align="center"> About Me
+
+- <img src="https://i.postimg.cc/RVzBjVT5/man-juggling.gif" width="30" align="center"> I’m Currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
+
+- <img src="https://i.postimg.cc/CxwVKhdy/airplane.gif" width="30" align="center"> How to reach me ** contact.ahsanul@gmail.com**
+
+
+<!-- About Me Section Ended-->
+
+<!--  Languages and Tools Section Started-->
+
+# <img src="https://i.postimg.cc/kgnjkDYH/rocket.gif" width="60px" align="center"> Languages and Tools :
+
+</br>
+
 <p align="left">
-<a href="https://twitter.com/ahsanul_h_abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahsanul_h_abir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahsanulhoqueabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsanulhoqueabir" height="30" width="40" /></a>
-<a href="https://fb.com/mdahsanulhoqueabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdahsanulhoqueabir" height="30" width="40" /></a>
-<a href="https://instagram.com/ahsanul.h.abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahsanul.h.abir" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ahsanulhoque" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ahsanulhoque" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ahsanulhoqueabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahsanulhoqueabir" height="30" width="40" /></a>
+   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/c-programming.png"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/undefined/figma--v1.png" width="45" height="45"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" width="45" height="45"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/visual-studio-code-2019.png" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://docs.google.com/document/u/0/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/google-docs--v1.png" alt="docs" width="40" height="40"/> </a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!--  Languages and Tools Section Ended-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanulhoqueabir&show_icons=true&locale=en&layout=compact" alt="ahsanulhoqueabir" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsanulhoqueabir&show_icons=true&locale=en" alt="ahsanulhoqueabir" /></p>
+<!-- Contribution Graph Started -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanulhoqueabir&" alt="ahsanulhoqueabir" /></p>
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanulhoqueabir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<!-- Contribution Graph Ended-->
+
+<!-- Github All Stats Start -->
+
+# <img src="https://i.postimg.cc/HW3kPW9p/direct-hit.gif" width="40px" align="center"> My Github Stats
+
+  <br/>
+  <div align="center">
+
+  <!-- Summary Graph Start -->
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsanulhoqueabir&theme=github_dark"/>
+</p>
+
+<!-- Summary Graph End -->
+
+<!-- Github Stats Start -->
+
+<a href="https://github.com/ahsanulhoqueabir/github-readme-stats"><img alt="ahsanul's Github Stats" src="https://readme-stats.clckblog.space/api?username=ahsanulhoqueabir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<!-- Github Stats End -->
+
+   <br/>
+
+<!-- Commits Graph Start -->
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahsanulhoqueabir&theme=github_dark&utcOffset=8"/>
+</p>
+<!-- Commits Graph End -->
+
+<!--Top Language Graph Start -->
+
+<a href="https://github.com/ahsanulhoqueabir/github-readme-stats"><img alt="ahsanul's Top Languages" src="https://readme-stats.clckblog.space/api/top-langs/?username=ahsanulhoqueabir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<!--Top Language Graph End -->
+
+</div>
+
+  <br/>
+
+
+<br/>
+
+<!-- Github All Stats End -->
+
+<!-- Competitive Programming Section Started -->
+
+# 📈 Competitive Programming
+
+<br/>
+<br/>
+
+<div align="center" >
+  
+ <!-- Codeforces Stats Card Started-->
+
+<img height="280em" src="https://raw.githubusercontent.com/ahsanulhoqueabir/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+
+<!-- Codeforces Stats Card Ended-->
+
+<br/>
+<br/>
+
+<!-- Codeforces && Leetcode Ratings Card Started  -->
+
+<div>
+
+  <a href="https://codeforces.com/profile/ahsanulhoqueabir">
+    <img src="https://raw.githubusercontent.com/ahsanulhoqueabir/cf-stats/main/output/max_rating.svg" alt="Codeforces Max rating" />
+  </a>
+
+
+  <a href="https://codeforces.com/profile/ahsanulhoqueabir">
+    <img src="https://raw.githubusercontent.com/ahsanulhoqueabir/cf-stats/main/output/rating.svg" alt="Codeforces Current Rating" />
+  </a>
+
+</div>
+
+  <!-- Codeforces && Leetcode Ratings Card Ended  -->
+
+  </div>
+
+  <!-- Competitive Programming Section Ended -->
+
+<br/>
+<br/>
+
+<!-- Activity & Contribution Graph Section Started -->
+
+<!-- Social Media Connection Section Started -->
+
+# <img src="https://i.postimg.cc/qvK00py6/handshake.gif" width="40px" align="center"> Connect with me :
+
+</br>
+
+<p align="center">
+<a href = "https://codeforces.com/profile/ahsanulhoqueabir"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a>
+<a href = "https://www.hackerrank.com/contact_ahsanul?hr_r=1"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
+<a href = "https://www.codechef.com/users/ahsanulhoqueabir"><img src="https://img.icons8.com/color/48/null/codechef.png"/></a>
+<a href = "https://www.linkedin.com/in/ahsanulhoqueabir/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/mdahsanulhoqueabir"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png"/></a>
+<a href = "https://m.me/mdahsanulhoqueabir"><img src="https://img.icons8.com/fluency/48/undefined/facebook-messenger--v2.png"/></a>
+<a href = "https://twitter.com/Ahsanul_H_abir/"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
+<a href = "https://www.instagram.com/ahsanul.h.abir/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+
+<!-- Social Media Connection Section Ended -->
+
+</br>
+
+</br>
+
+<!-- Snake Eating Contribution Section Started -->
+
+<div align="center">
+  <h2><img src="https://i.postimg.cc/mg9xHQ5H/light-bulb.gif" width="40px" align="center"> My Contributions in Github <img src="https://i.postimg.cc/mg9xHQ5H/light-bulb.gif" width="40px" align="center"></h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/ahsanulhoqueabir/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
+
+<!-- Snake Eating Contribution Section Ended -->
