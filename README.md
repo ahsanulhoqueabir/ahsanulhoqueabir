@@ -14,25 +14,12 @@
 
 
 #  About Me
-<div>
-<a href="https://codeforces.com/profile/AhsanulHoqueAbir"> <img src="https://raw.githubusercontent.com/ahsanulhoqueabir/cf-stats/main/output/max_rating.svg" alt="CodeForces rating"/>
- </a>
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=ahsanulhoqueabir)
 
+ <img src="https://komarev.com/ghpvc/?username=ahsanulhoqueabir" alt = "profile views count" />
 
-<a href="https://github.com/ahsanulhoqueabir">
-    <img src="https://komarev.com/ghpvc/?username=ahsanulhoqueabir" alt = "profile views count" />
-</a>
+ <img src="https://img.shields.io/github/followers/ahsanulhoqueabir?label=Followers&style=social" alt="GitHub Badge">  
 
-<a href="https://github.com/ahsanulhoqueabir">
-
-<img src="https://img.shields.io/github/followers/ahsanulhoqueabir?label=Followers&style=social" alt="GitHub Badge">
-
-</a>
-
-</br>
-</br>
-
-</div>
 
 -  I’m Currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
 
@@ -127,35 +114,10 @@
 
 <div align="center" >
   
- <!-- Codeforces Stats Card Started-->
-
-<img height="280em" src="https://raw.githubusercontent.com/ahsanulhoqueabir/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-
-<!-- Codeforces Stats Card Ended-->
-
-<br/>
-<br/>
-
-<!-- Codeforces && Leetcode Ratings Card Started  -->
-
-<div>
-
-  <a href="https://codeforces.com/profile/ahsanulhoqueabir">
-    <img src="https://raw.githubusercontent.com/ahsanulhoqueabir/cf-stats/main/output/max_rating.svg" alt="Codeforces Max rating" />
-  </a>
-
-
-  <a href="https://codeforces.com/profile/ahsanulhoqueabir">
-    <img src="https://raw.githubusercontent.com/ahsanulhoqueabir/cf-stats/main/output/rating.svg" alt="Codeforces Current Rating" />
-  </a>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ahsanulhoqueabir)](https://codeforces-readme-stats.vercel.app/api/card?username=ahsanulhoqueabir&theme=transparent&disable_animations=false&show_icons=true&force_username=false)
 
 </div>
 
-  <!-- Codeforces && Leetcode Ratings Card Ended  -->
-
-  </div>
-
-  <!-- Competitive Programming Section Ended -->
 
 <br/>
 <br/>
