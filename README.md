@@ -1,7 +1,21 @@
-<div>
 
- <a href="https://codeforces.com/profile/AhsanulHoqueAbir">
-    <img src="https://raw.githubusercontent.com/ahsanulhoqueabir/cf-stats/main/output/max_rating.svg" alt="CodeForces rating" />
+
+<!-- Banner Started -->
+
+<img align="right" alt="Coding" width="100%" height="100%" src="https://user-images.githubusercontent.com/113261318/246619811-eae0d304-6b01-4462-a533-c0c37e2bb4be.png">
+
+<!-- Banner Ended -->
+
+<!-- About Me Section Started-->
+
+<h1 align="center">Hi <img src="https://i.postimg.cc/52gnS1gM/waving-hand.gif" width="35px">, I'm MD. AHSANUL HOQUE ABIR</h1>
+<h3 align="center">I'm a Passionate
+<em><strong>Competitive Programmer</em></strong></em> from Chittagong,Bangladesh </h3>
+
+
+#  About Me
+<div>
+<a href="https://codeforces.com/profile/AhsanulHoqueAbir"> <img src="https://raw.githubusercontent.com/ahsanulhoqueabir/cf-stats/main/output/max_rating.svg" alt="CodeForces rating"/>
  </a>
 
 
@@ -20,24 +34,9 @@
 
 </div>
 
-<!-- Banner Started -->
+-  I’m Currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
 
-<img align="right" alt="Coding" width="100%" height="100%" src="https://user-images.githubusercontent.com/113261318/246619811-eae0d304-6b01-4462-a533-c0c37e2bb4be.png">
-
-<!-- Banner Ended -->
-
-<!-- About Me Section Started-->
-
-<h1 align="center">Hi <img src="https://i.postimg.cc/52gnS1gM/waving-hand.gif" width="35px">, I'm MD. AHSANUL HOQUE ABIR</h1>
-<h3 align="center">I'm a Passionate
-<em><strong>Competitive Programmer</em></strong></em> from Chittagong,Bangladesh </h3>
-
-
-#  About Me
-
-- <img src="https://i.postimg.cc/RVzBjVT5/man-juggling.gif" width="30" align="center"> I’m Currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
-
-- <img src="https://i.postimg.cc/CxwVKhdy/airplane.gif" width="30" align="center"> How to reach me ** contact.ahsanul@gmail.com**
+-  How to reach me ** contact.ahsanul@gmail.com**
 
 
 <!-- About Me Section Ended-->
