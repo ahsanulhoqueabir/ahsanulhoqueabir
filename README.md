@@ -20,6 +20,7 @@
 
  <img src="https://img.shields.io/github/followers/ahsanulhoqueabir?label=Followers&style=social" alt="GitHub Badge">  
 
+A CSE undergraduate with a passion for problem solving and web development. Eager to learn and grow, actively participates in coding competitions, hones my skills in web technologies, and maintains a portfolio to showcase my projects.
 
 -  I’m Currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
 
