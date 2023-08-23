@@ -5,6 +5,8 @@
 <img align="right" alt="Coding" width="100%" height="100%" src="https://user-images.githubusercontent.com/113261318/246619811-eae0d304-6b01-4462-a533-c0c37e2bb4be.png">
 
 <!-- Banner Ended -->
+<!-- ![শিরোনামহীন ডিজাইন](https://github.com/ahsanulhoqueabir/ahsanulhoqueabir/assets/113261318/10b27f40-33d6-4cc1-a0f8-e82dfe7daf66) -->
+
 
 <!-- About Me Section Started-->
 
@@ -14,11 +16,10 @@
 
 
 #  About Me
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=ahsanulhoqueabir)
+ ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=ahsanulhoqueabir) 
+ <span> &nbsp;&nbsp;  <img src="https://komarev.com/ghpvc/?username=ahsanulhoqueabir" alt = "profile views count" /> </span>
+ <span> &nbsp;&nbsp; <img src="https://img.shields.io/github/followers/ahsanulhoqueabir?label=Followers&style=social" alt="GitHub Badge"> </span>
 
- <img src="https://komarev.com/ghpvc/?username=ahsanulhoqueabir" alt = "profile views count" />
-
- <img src="https://img.shields.io/github/followers/ahsanulhoqueabir?label=Followers&style=social" alt="GitHub Badge">  
 
 A CSE undergraduate with a passion for problem solving and web development. Eager to learn and grow, actively participates in coding competitions, hones my skills in web technologies, and maintains a portfolio to showcase my projects.
 
