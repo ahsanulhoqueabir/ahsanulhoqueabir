@@ -129,7 +129,29 @@ A CSE undergraduate with a passion for problem solving and web development. Eage
 <br/>
 <br/>
 
-<!-- Activity & Contribution Graph Section Started -->
+<!-- My project table  -->
+# 🌐 My Projects
+
+|                       Serial                        |         Project Name          |       Description  |        Purpose           |
+| :----------------: | :------------: | :----------------------: | :-------------------------------------------------------- |
+|  1  | <a href="https://joyful-rugelach-69f894.netlify.app/">foodBangla</a> | A simple react app focused on routing,express,api |  Learning                |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Social Media Connection Section Started -->
 
