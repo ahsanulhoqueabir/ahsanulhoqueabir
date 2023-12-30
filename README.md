@@ -13,9 +13,9 @@
 
 <!-- About Me Section Started-->
 
-<h1 align="center">Hi <img src="https://i.postimg.cc/52gnS1gM/waving-hand.gif" width="35px">, I'm MD. AHSANUL HOQUE ABIR</h1>
+<h1 align="center"> I'm MD. AHSANUL HOQUE ABIR</h1>
 <h3 align="center">I'm a Passionate
-<em><strong>Competitive Programmer</em></strong></em> from Chittagong,Bangladesh </h3>
+<em><strong>Competitive Programmer</em></strong></em> and <em><strong>Web Developer</em></strong></em>  </h3>
 
 
 #  About Me
