@@ -20,6 +20,7 @@
 <em><strong>Competitive Programmer</em></strong></em> and <em><strong>Web Developer</em></strong></em>  </h3>
 
 
+
 #  About Me
  ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=ahsanulhoqueabir) 
  <span> &nbsp;&nbsp;  <img src="https://komarev.com/ghpvc/?username=ahsanulhoqueabir" alt = "profile views count" /> </span>
@@ -134,10 +135,31 @@ A CSE undergraduate with a passion for problem solving and web development. Eage
 <!-- My project table  -->
 # 🌐 My Projects
 
-|                       Serial                        |         Project Name          |       Description  |        Purpose           |
-| :----------------: | :------------: | :----------------------: | :-------------------------------------------------------- |
-|  1  | <a href="https://joyful-rugelach-69f894.netlify.app/">foodBangla</a> | A simple react app focused on routing,express,api |  Learning                |
+<div>
 
+<table>
+        <thead >
+            <td> <strong>Serial</strong> </td>
+            <td> <strong>Project Name</strong> </td>
+            <td> <strong>Description</strong> </td>
+            <td> <strong>Purpose</strong> </td>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2</td>
+                <td><a href="https://joyful-rugelach-69f894.netlify.app">foodBangla</a></td>
+                <td>A simple react app focused on routing,express,api</td>
+                <td>Learning</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td><a href="https://storied-flan-0246ff.netlify.app/">skillSync</a></td>
+                <td>Applicant can see vacancy of posts and apply for this job. </td>
+                <td>Learning</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 
 
@@ -181,14 +203,6 @@ A CSE undergraduate with a passion for problem solving and web development. Eage
 
 <!-- Snake Eating Contribution Section Started -->
 
-<div align="center">
-  <h2><img src="https://i.postimg.cc/mg9xHQ5H/light-bulb.gif" width="40px" align="center"> My Contributions in Github <img src="https://i.postimg.cc/mg9xHQ5H/light-bulb.gif" width="40px" align="center"></h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/ahsanulhoqueabir/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
-</div>
 
 <!-- Snake Eating Contribution Section Ended -->
 
