@@ -147,7 +147,7 @@ A CSE undergraduate with a passion for problem solving and web development. Eage
         <tbody>
          <tr>
           <td>3</td>
-          <td>C++ Extension for CP</td>
+          <td><a href="https://marketplace.visualstudio.com/items?itemName=MDAHSANULHOQUEABIR.oopcpcpp">C++ Extension for CP</a></td>
           <td>Making efficient your coding experience</td>
           <td>Learning</td>
          </tr>
