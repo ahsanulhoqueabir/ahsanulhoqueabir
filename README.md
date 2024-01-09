@@ -145,6 +145,12 @@ A CSE undergraduate with a passion for problem solving and web development. Eage
             <td> <strong>Purpose</strong> </td>
         </thead>
         <tbody>
+         <tr>
+          <td>3</td>
+          <td>C++ Extension for CP</td>
+          <td>Making efficient your coding experience</td>
+          <td>Learning</td>
+         </tr>
             <tr>
                 <td>2</td>
                 <td><a href="https://joyful-rugelach-69f894.netlify.app">foodBangla</a></td>
