@@ -147,7 +147,7 @@ A CSE undergraduate with a passion for problem solving and web development. Eage
         <tbody>
          <tr>
           <td>4</td>
-          <td><a href="https://csejnu13.netlify.app">Bacth Introductory</a></td>
+          <td><a href="https://csejnu13.netlify.app">Batch Introductory</a></td>
           <td>A batch introductory react app for my department</td>
           <td>Learning</td>
          </tr>
