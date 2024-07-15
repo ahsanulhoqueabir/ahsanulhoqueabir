@@ -1,0 +1,75 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.project-modal {
+  width: 90%;
+  max-width: 800px;
+  padding: 20px;
+  border-radius: 15px;
+  position: relative;
+}
+
+.project-link {
+  background-color: #212122;
+  border: 1px solid #383838;
+  border-radius: 10px;
+  padding: 8px 16px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.1rem;
+  color: white;
+  text-decoration: none;
+  transition: border-color 0.3s;
+}
+
+.project-link:hover {
+  border-color: #9ed5c5;
+}
+
+.icon {
+  color: #9ed5c5;
+  font-size: 1.2rem;
+}
+
+.close-button {
+  position: absolute;
+  top: 25px;
+  right: 20px;
+  border: 1px solid #9ed5c5;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.close-button .icon:hover {
+  color: red;
+  transition: all;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .project-modal {
+    width: 95%;
+  }
+}
+@media (max-width: 1024px) {
+  .project-modal {
+    height: 90%;
+  }
+}
