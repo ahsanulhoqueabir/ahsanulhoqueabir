@@ -8,7 +8,7 @@ const SkillPercent = () => {
   return (
     <section className="mt-12 ">
       <Title sTitle title={"My Proficiency"} />
-      <div className="bg-[#202022] p-5 shadow-2xl border border-[#383838] rounded-2xl grid grid-cols-1 gap-6 lg:gap-10 mt-6">
+      <div className="bg-[#31363F] p-5 shadow-2xl border border-[#383838] rounded-2xl grid grid-cols-1 gap-6 lg:gap-10 mt-6">
         {skills.map((skill, index) => (
           <EachSkill key={index} skill={skill} />
         ))}
@@ -24,7 +24,7 @@ const EachSkill = ({ skill }) => {
     <div className="rounded shadow-2xl">
       <div className="flex justify-between items-center py-2">
         <div>
-          <h4 className="text-lg font-semibold text-white relative">
+          <h4 className="text-lg font-semibold text-white relative font-philosopher">
             {skill.name}
             <span className="p-1 py-[1px]  absolute leading-4 -top-3 text-[8px] bg-teal-200 text-black rounded-xl capitalize ">
               {skill.category}

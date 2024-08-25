@@ -21,7 +21,7 @@ const Profile = () => {
             animate={{ opacity: 1, x: 0 }}
             transition={{ type: "spring", duration: 2 }}
           >
-            <h2 className=" md:text-center md:text-xl lg:text-2xl mt-5 mb-3  font-semibold">
+            <h2 className=" md:text-center lg:text-2xl mt-5 mb-3  font-semibold font-philosopher md:text-3xl">
               MD AHSANUL HOQUE ABIR
             </h2>
           </motion.div>

@@ -6,6 +6,14 @@ export default {
     extend: {
       fontFamily: {
         inter: ["Inter", "sans-serif"],
+        philosopher: ["Philosopher", "sans-serif"],
+        playwrite: ["Playwrite AT", "system-ui"],
+        playfair: ["Playfair Display", "system-ui"],
+        jacquard: ["Jacquard 12", "sans-serif"],
+        grey: ["Grey Qo", "system-ui"],
+        garamond: ["EB Garamond", "system-ui"],
+        changa: ["Changa", "system-ui"],
+        nova: ["Bona Nova SC", "system-ui"],
       },
       colors: {
         // prev: '#7286D3'

@@ -16,7 +16,7 @@ const Experience = () => {
       </div>
       <div className="time-line-area flex flex-col gap-8">
         <div className="text-[15px] flex flex-col gap-1">
-          <h3 className=" font-bold ">Self Learning</h3>
+          <h3 className=" font-bold font-philosopher">Self Learning</h3>
           <h3 className=" text-primary mt-1">July, 2022 - Present</h3>
           <p>
             I complete several projects and enhance my experience. Now, I&apos;m
@@ -25,7 +25,9 @@ const Experience = () => {
         </div>
 
         <div className="text-[15px] flex flex-col gap-1">
-          <h3 className=" font-bold ">Complete Web Development Course</h3>
+          <h3 className="font-philosopher font-bold ">
+            Complete Web Development Course
+          </h3>
           <h3 className=" text-primary mt-1">July, 2023 - December, 2023</h3>
           <p>
             I Completed the <strong>Complete Web Development</strong> by

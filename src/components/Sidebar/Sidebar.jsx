@@ -6,7 +6,7 @@ import SocialMedia from "./SocialMedia";
 const Sidebar = () => {
   const [showContact, setShowContact] = useState(false);
   return (
-    <div className="bg-mediumDark  border relative border-[#3e3e3e] py-12 px-4 rounded-2xl ">
+    <div className="bg-[#222831]  border relative border-[#3e3e3e] py-12 px-4 rounded-2xl ">
       <div>
         <Profile />
       </div>

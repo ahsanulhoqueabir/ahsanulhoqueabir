@@ -31,6 +31,19 @@ const MyInfo = () => {
           creative way.
         </p>
       </div>
+      <div className="py-5">
+        <Title title={"Rating"} />
+        <div>
+          <p className="text-textGray text-[15px]">
+            <span className="font-bold font-philosopher">Codeforces :</span>{" "}
+            1205
+          </p>
+          <p className="text-textGray text-[15px]">
+            <span className="font-bold font-philosopher">Codechef :</span> 3
+            star
+          </p>
+        </div>
+      </div>
     </section>
   );
 };

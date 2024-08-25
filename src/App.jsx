@@ -21,7 +21,7 @@ const App = () => {
   const content = components[page] || <About />;
 
   return (
-    <main className="bg-deepDark py-8 md:py-16">
+    <main className="bg-[#C1D8C3] py-8 md:py-16 font-changa font-light ">
       <div className="  max-w-[1200px] mx-auto grid grid-cols-1 lg:grid-cols-4 gap-6 px-4 md:px-9 ">
         <div>
           <Sidebar />

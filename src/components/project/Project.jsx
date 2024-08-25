@@ -16,7 +16,7 @@ const Project = ({ project }) => {
         className=" cursor-pointer"
       >
         <motion.div
-          className="bg-[#202022] rounded-2xl"
+          className="bg-[#31363F] rounded-2xl"
           initial={{ opacity: 0, y: -50 }}
           whileInView={{
             opacity: 1,
@@ -28,7 +28,9 @@ const Project = ({ project }) => {
         >
           <AutoScrollImage src={FolderImage("project", project?.img)} />
           <div className="flex items-center justify-between px-3 py-4 pb-5 ">
-            <h3 className="text-lg md:text-2xl font-bold">{project?.title}</h3>
+            <h3 className="text-lg md:text-2xl font-bold font-philosopher">
+              {project?.title}
+            </h3>
             <div className=" flex gap-7 justify-between">
               <a target="blank" href={project?.liveUrl} className=" font-bold">
                 <FaExternalLinkAlt className=" hover:text-primary text-primary" />

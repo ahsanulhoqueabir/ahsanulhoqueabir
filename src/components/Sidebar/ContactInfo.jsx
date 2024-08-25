@@ -16,7 +16,7 @@ const ContactInfo = () => {
         transition={{ type: "spring", duration: 2 }}
       >
         <div className="flex gap-3">
-          <div className="bg-[#212122] rounded-xl border w-[48px] h-[48px] shadow-xl border-[#383838] flex justify-center items-center p-1">
+          <div className="bg-[#31363F] rounded-xl border w-[48px] h-[48px] shadow-xl border-[#31363F] flex justify-center items-center p-1">
             <IoMdMailOpen className=" text-xl font-bold text-primary" />
           </div>
           <div>
@@ -29,7 +29,7 @@ const ContactInfo = () => {
           </div>
         </div>
         <div className="flex gap-3">
-          <div className="bg-[#212122] rounded-xl border w-[48px] h-[48px] shadow-xl border-[#383838] flex justify-center items-center p-1">
+          <div className="bg-[#31363F] rounded-xl border w-[48px] h-[48px] shadow-xl border-[#31363F] flex justify-center items-center p-1">
             <MdOutlinePhoneIphone className=" text-xl font-bold text-primary" />
           </div>
           <div>
@@ -40,7 +40,7 @@ const ContactInfo = () => {
           </div>
         </div>
         <div className="flex gap-3">
-          <div className="bg-[#212122] rounded-xl border w-[48px] h-[48px] shadow-xl border-[#383838] flex justify-center items-center p-1">
+          <div className="bg-[#31363F] rounded-xl border w-[48px] h-[48px] shadow-xl border-[#31363F] flex justify-center items-center p-1">
             <FaRegCalendarAlt className=" text-xl font-bold text-primary" />
           </div>
           <div>
@@ -49,7 +49,7 @@ const ContactInfo = () => {
           </div>
         </div>
         <div className="flex gap-3">
-          <div className="bg-[#212122] rounded-xl border w-[48px] h-[48px] shadow-xl border-[#383838] flex justify-center items-center p-1">
+          <div className="bg-[#31363F] rounded-xl border w-[48px] h-[48px] shadow-xl border-[#31363F] flex justify-center items-center p-1">
             <MdOutlineLocationOn className=" text-xl font-bold text-primary" />
           </div>
           <div>
