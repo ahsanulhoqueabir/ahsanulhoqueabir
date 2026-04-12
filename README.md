@@ -180,13 +180,7 @@ I believe in the power of consistency and learning every day — whether it's so
 # 📊 Relevant GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsanulhoqueabir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanulhoqueabir&layout=compact&theme=tokyonight&langs_count=8)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahsanulhoqueabir&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+  <img src="https://yourinsights.vercel.app/api/insight?username=ahsanulhoqueabir&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </div>
 
 <!-- GitHub Stats Section Ended -->
