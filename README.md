@@ -1,6 +1,5 @@
 [![Youtube][youtube-shield]][youtube-url]
 [![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- Banner Started -->
@@ -16,6 +15,10 @@
 <!-- About Me Section Started-->
 
 <h1 align="center"> I'm MD. AHSANUL HOQUE ABIR</h1>
+<h3 align="center">Junior Software Engineer</h3>
+<p align="center">
+  📧 contact.ahsanul@gmail.com &nbsp;|&nbsp; 📞 +8801875507852
+</p>
 <h3 align="center">I'm a Passionate
 <em><strong>Competitive Programmer</em></strong></em> and <em><strong>Web Developer</em></strong></em>  </h3>
 
@@ -25,13 +28,27 @@
 <span> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=ahsanulhoqueabir" alt = "profile views count" /> </span>
 <span> &nbsp;&nbsp; <img src="https://img.shields.io/github/followers/ahsanulhoqueabir?label=Followers&style=social" alt="GitHub Badge"> </span>
 
-A CSE undergraduate with a passion for problem solving and web development. Eager to learn and grow, actively participates in coding competitions, hones my skills in web technologies, and maintains a portfolio to showcase my projects.
+I am a passionate and dedicated **Junior Software Engineer** with a strong foundation in **Computer Science & Engineering**. My journey in tech is driven by a love for problem-solving, clean code, and building real-world applications that make a difference. I actively participate in competitive programming contests, constantly sharpening my algorithmic thinking and coding skills across multiple online judges.
 
-- I’m Currently learning **Data Structures and Algorithms & Solving Problems in Several Online Judges !!**
+Beyond competitive programming, I have hands-on experience in full-stack web and mobile development — from crafting responsive UIs with **React.js** and **Next.js** to building scalable backend systems using **Node.js**, **Express.js**, and **NestJS**. I enjoy exploring new technologies, working on challenging projects, and continuously pushing the boundaries of what I know.
 
-- **contact.ahsanul@gmail.com**
+I believe in the power of consistency and learning every day — whether it's solving a tough algorithmic problem, building a full-featured software system, or contributing to open-source communities. My goal is to grow as an engineer and create impactful solutions through technology.
 
 <!-- About Me Section Ended-->
+
+<!-- Current Activities Section Started -->
+
+# 🚀 Current Activities
+
+- 🔍 Exploring **Next.js** and its advanced features like App Router, Server Components, and Server Actions.
+- 🛒 Currently building a **Shop Management & Accounting Software** — a full-featured system to manage inventory, sales, purchases, and financial records for small to medium businesses.
+- 🍽️ Previously worked on a **Restaurant Management System with Accounting** — handling table orders, billing, kitchen management, and financial reporting.
+- 📱 Learning **Flutter** for cross-platform mobile application development.
+- 🧩 Exploring **Directus** as a headless CMS to manage content and data for web and mobile apps.
+- 💻 Building desktop applications using **Electron.js**.
+- 🏆 Regularly practicing **Data Structures & Algorithms** and solving problems on Codeforces, HackerRank, and CodeChef.
+
+<!-- Current Activities Section Ended -->
 
 <!--  Languages and Tools Section Started-->
 
@@ -41,9 +58,9 @@ A CSE undergraduate with a passion for problem solving and web development. Eage
 
 ### Languages:
 
-| JS                                                                                                                                                               | Typescript                                                                                                                                                       | C                                                                                                                             | C++                                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TyprScript" alt="TyprScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> |
+| JS                                                                                                                                                               | Typescript                                                                                                                                                       | C                                                                                                                             | C++                                                                                                                                              | Python                                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TyprScript" alt="TyprScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> |
 
 ### Frontend main frameworks and libraries:
 
@@ -53,15 +70,27 @@ A CSE undergraduate with a passion for problem solving and web development. Eage
 
 ### Backend main frameworks and libraries:
 
-| Node JS                                                                                                                                             | Express JS                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS"  alt="Node js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express JS"  alt="Express js" width="55" height="55"/> |
+| Node JS                                                                                                                                             | Express JS                                                                                                                                                           | NestJS                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS"  alt="Node js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express JS"  alt="Express js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="55" height="55"/> |
 
 ### Automation/bot main frameworks and libraries:
 
 | Node JS                                                                                                                                             | Puppeteer                                                                                                                                                                                                                     | Cheerio JS                                                                                                                        | Axios                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS"  alt="Node js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" title="Puppeteer"  alt="Puppeteer" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/7230330?s=48&v=4" title="Cheerio JS"  alt="Cheerio JS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios"  alt="Axios" width="55" height="55"/> | 
+
+### Mobile & Desktop:
+
+| Flutter                                                                                                                                                          | Electron                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="55" height="55"/> |
+
+### CMS:
+
+| Directus                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://avatars.githubusercontent.com/u/15967411?s=200&v=4" title="Directus" alt="Directus" width="55" height="55"/> |
 
 # 📈 Competitive Programming
 
@@ -133,7 +162,6 @@ A CSE undergraduate with a passion for problem solving and web development. Eage
 <a href = "https://www.facebook.com/mdahsanulhoqueabir"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png"/></a>
 <a href = "https://m.me/mdahsanulhoqueabir"><img src="https://img.icons8.com/fluency/48/undefined/facebook-messenger--v2.png"/></a>
 <a href = "https://twitter.com/Ahsanul_H_abir/"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
-<a href = "https://www.instagram.com/ahsanul.h.abir/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
@@ -147,13 +175,27 @@ A CSE undergraduate with a passion for problem solving and web development. Eage
 
 <!-- Snake Eating Contribution Section Ended -->
 
+<!-- GitHub Stats Section Started -->
+
+# 📊 Relevant GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsanulhoqueabir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanulhoqueabir&layout=compact&theme=tokyonight&langs_count=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahsanulhoqueabir&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<!-- GitHub Stats Section Ended -->
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
 [youtube-url]: https://youtube.com/@AhsanulAbir
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
 [facebook-url]: https://facebook.com/mdahsanulhoqueabir
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[instagram-url]: https://instagram.com/Ahsanul.H.abir
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/AhsanulHoqueAbir
