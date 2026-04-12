@@ -92,16 +92,7 @@ I believe in the power of consistency and learning every day — whether it's so
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://avatars.githubusercontent.com/u/15967411?s=200&v=4" title="Directus" alt="Directus" width="55" height="55"/> |
 
-# 📈 Competitive Programming
 
-<br/>
-<br/>
-
-<div align="center" >
-  
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ahsanulhoqueabir)](https://codeforces-readme-stats.vercel.app/api/card?username=ahsanulhoqueabir&theme=transparent&disable_animations=false&show_icons=true&force_username=false)
-
-</div>
 
 <br/>
 <br/>
