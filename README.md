@@ -88,13 +88,13 @@ End-to-end machine learning project on the IBM HR Analytics dataset: a leakage-s
 
 ### Products in Production
 
-Client and organisational work whose source is private.
+Live platforms built for clients and organisations.
 
 | Product | What it does |
 | :-- | :-- |
 | [Accrely](https://accrely.com) | Accreditation management for Bangladeshi universities, piloting at three universities |
 | [ShopiGen](https://shopigen.it) | Bilingual shop management: invoicing, stock, dues and an online storefront |
-| [JnUCSU](https://jnucsu.com) | Election platform for the Jagannath University Central Students' Union, Bengali-first |
+| [JnUCSU](https://jnucsu.com) | Election platform for the Jagannath University Central Students' Union, Bengali-first · [source](https://github.com/asfi50/jnucsu) |
 | TEDxJagannathUniversity | Event site with semi-automated ticketing and live seat state over Socket.io |
 
 <br />
